@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!-- 静态标题 + 动态徽章替代打字动画 -->
 <h2>👋 Hello World! 我是 3Mz-df</h2>
 
-<img src="https://img.shields.io/badge/ 全栈开发者-00B4D8?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/ 热爱开源与技术-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/ 终身学习-51CF66?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ 学习java中-00B4D8?style=for-the-badge&labelColor=0a0a0a" />
+
+<img src="https://img.shields.io/badge/ 🥪🥪🥪-51CF66?style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
