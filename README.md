@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 技术栈图标 -->
-[![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=js,nodejs,vue,html,css,git,docker,linux,redis,javase,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=js,nodejs,vue,html,css,git,redis,javase,springboot)](https://skillicons.dev)
 
-**JavaScript · TypeScript · Node.js · React · Vue.js · Astro · Svelte**
+**JavaScript · Node.js · Vue.js · **
 
-**HTML5 · CSS3 · Tailwind CSS · Python · Go · Git · Docker · Linux · Redis**
+**HTML5 · CSS3 · Git · Redis**
 
 </div>
 
