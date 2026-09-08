@@ -59,3 +59,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=followers&url=https://api.github.com/users/3Mz-df&style=for-the-badge&color=00B4D8&labelColor=0a0a0a" />
 
 </div>
+<img width="1627" height="914" alt="d7ded3d26a1e9e17cfc3e1b21272109639682250" src="https://github.com/user-attachments/assets/06b902e2-0abb-4f12-8b0d-e746c1311af0" />
