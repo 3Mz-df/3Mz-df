@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- 打字动画标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&height=50&lines=Hello+World!+👋; 我是+3Mz-df;29届软工双非本)](https://git.io/typing-svg)
+<!-- 静态标题 + 动态徽章替代打字动画 -->
+<h2>👋 Hello World! 我是 3Mz-df</h2>
 
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/169751467-90a44d4d-cc24-4ec1-96d0-73e5e8142606.svg" width="100%" />
+<img src="https://img.shields.io/badge/ 全栈开发者-00B4D8?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ 热爱开源与技术-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ 终身学习-51CF66?style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
