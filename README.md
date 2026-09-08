@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 <!-- 技术栈图标 -->
 [![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=js,nodejs,vue,html,css,git,docker,linux,redis,javase,springboot)](https://skillicons.dev)
 
+**JavaScript · TypeScript · Node.js · React · Vue.js · Astro · Svelte**
+
+**HTML5 · CSS3 · Tailwind CSS · Python · Go · Git · Docker · Linux · Redis**
+
 </div>
 
 <br>
