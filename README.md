@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- 成就奖杯 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=3Mz-df&theme=dracula&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
