@@ -40,19 +40,19 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 图标行 -->
-[![My Skills](https://skillicons.dev/icons?theme=dark&perline=9&i=js,ts,java,python,go,html,css,tailwind,react,vue,astro,svelte,spring,springboot,mysql,redis,git,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&perline=9&i=js,java,python,html,css,tailwind,vue,spring,springboot,mysql,redis,git)](https://skillicons.dev)
 
 <!-- 语言 -->
-**JavaScript · TypeScript · Java SE · Python · Go**
+**JavaScript · Java SE · Python **
 
 <!-- 前端 -->
-**HTML5 · CSS3 · Tailwind CSS · React · Vue.js · Astro · Svelte**
+**HTML5 · CSS3 · Tailwind CSS · Vue.js **
 
 <!-- 后端 -->
 **Spring Framework · Spring MVC · Spring Data · Spring Boot · MyBatis**
 
 <!-- 数据库与运维 -->
-**MySQL · Redis · Git · Docker · Linux**
+**MySQL · Redis · Git **
 
 </div>
 <br>
