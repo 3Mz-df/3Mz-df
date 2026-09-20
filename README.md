@@ -39,14 +39,22 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- 技术栈图标 -->
-[![My Skills](https://skillicons.dev/icons?theme=dark&perline=7&i=js,nodejs,vue,html,css,git,redis,javase,springboot)](https://skillicons.dev)
+<!-- 图标行 -->
+[![My Skills](https://skillicons.dev/icons?theme=dark&perline=9&i=js,ts,java,python,go,html,css,tailwind,react,vue,astro,svelte,spring,springboot,mysql,redis,git,docker,linux)](https://skillicons.dev)
 
-**JavaScript · Node.js · Vue.js · HTML5 · CSS3 · Git · Redis**
+<!-- 语言 -->
+**JavaScript · TypeScript · Java SE · Python · Go**
 
+<!-- 前端 -->
+**HTML5 · CSS3 · Tailwind CSS · React · Vue.js · Astro · Svelte**
+
+<!-- 后端 -->
+**Spring Framework · Spring MVC · Spring Data · Spring Boot · MyBatis**
+
+<!-- 数据库与运维 -->
+**MySQL · Redis · Git · Docker · Linux**
 
 </div>
-
 <br>
 
 ## 📊 GitHub 统计
