@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🎯 **职业方向**：全栈开发 / 后端工程师
 - 🌱 **目前正在学习**：项目开发
-- 💡 **兴趣领域**：Web开发，项目设计
+- 💡 **兴趣领域**：全栈
 - 📫 **邮箱**：3078675260@qq.com
 - 📝 **博客**：[blog.liuta0.xyz](https://blog.liuta0.xyz)
 
