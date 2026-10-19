@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ## 🧑‍💻 关于我
 
 - 🎯 **职业方向**：全栈开发 / 后端工程师
-- 🌱 **目前正在学习**：项目开发
-- 💡 **兴趣领域**：全栈
+- 🌱 **目前正在学习**：个人项目开发
+- 💡 **兴趣领域**：ai全栈 ai智能应用开发
 - 📫 **邮箱**：3078675260@qq.com
 - 📝 **博客**：[blog.liuta0.xyz](https://blog.liuta0.xyz)
 
