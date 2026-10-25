@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?theme=dark&perline=9&i=js,java,python,html,css,tailwind,vue,spring,springboot,mysql,redis,git)](https://skillicons.dev)
 
 <!-- 语言 -->
-**JavaScript · Java SE · Python**
+**JavaScript · Java SE · Python · Linux**
 
 <!-- 前端 -->
 **HTML5 · CSS3 · Tailwind CSS · Vue.js**
 
 <!-- 后端 -->
-**Spring Framework · Spring MVC · Spring Data · Spring Boot · MyBatis**
+**Spring Framework · Spring MVC · Spring Data · Spring Boot · MyBatis · Spring Cloud Alibaba**
 
 <!-- 数据库与运维 -->
 **MySQL · Redis · Git**
